@@ -1,5 +1,5 @@
-# Awesome_Clustering_Techniques 
-The clustering techniques published
+# Awesome Clustering Techniques 
+A list of the clustering techniques published.
 
 
 ## Table of Contents
